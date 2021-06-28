@@ -3,16 +3,18 @@ body {
   justify-content: center;
   /* align-items: center; */
   height: 100vw;
+  transition: background-color 1000ms;
   
 }
 
 h1 {
   font-size: 15rem;
   font-family: "Times New Roman", Times, serif;
-  text-decoration: underline;
 }
 
 .letter {
   transition: color 1000ms;
 }
+
+
 
